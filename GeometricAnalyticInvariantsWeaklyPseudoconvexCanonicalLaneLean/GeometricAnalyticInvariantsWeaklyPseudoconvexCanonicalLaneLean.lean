@@ -1,0 +1,9 @@
+import .AdmissibleClass
+
+namespace HautevilleHouse
+namespace GeometricAnalyticInvariantsWeaklyPseudoconvexCanonicalLaneLean
+
+-- Root file for the Geometric Analytic Invariants Weakly Pseudoconvex package.
+
+end GeometricAnalyticInvariantsWeaklyPseudoconvexCanonicalLaneLean
+end HautevilleHouse
